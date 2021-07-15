@@ -1,0 +1,30 @@
+[
+  {
+    "name": "auth",
+    "path": "/auth",
+    "component": "C:\\\\OpenServer\\\\domains\\\\restfulapi\\\\frontend\\\\pages\\\\auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_09ff52cc"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\OpenServer\\\\domains\\\\restfulapi\\\\frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5db08847"
+  },
+  {
+    "name": "currency-id",
+    "path": "/currency/:id?",
+    "component": "C:\\\\OpenServer\\\\domains\\\\restfulapi\\\\frontend\\\\pages\\\\currency\\\\_id.vue",
+    "chunkName": "pages/currency/_id",
+    "_name": "_4be415d5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\OpenServer\\\\domains\\\\restfulapi\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9d53c544"
+  }
+]
